@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- ## Jyothsna's Portfolio 📚👩🏻‍💻
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. -->
+![image](https://github.com/user-attachments/assets/ca2a0090-12d9-4820-ba00-7718ca865974)
 
-<!--
-**jyothsnavijay/jyothsnavijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Jyothsna!
 
-Here are some ideas to get you started:
+📚 I'm a Boston-based graduate student at Northeastern University, studying Data Analytics Engineering. I'm currently interning at a Synchrony Financial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. 
+
+🛠 The tools I primarily use are Python, SAS, Tableau, and R.
+
+🌱 I recently worked on idk
+
+💞️ I enjoy building communities in analytics & tech. I'm a member of GWISE (Graduate Women in Science Engineering)
+
+📝 Idk
+
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/jyothsna-vijayaraghavendra/).
