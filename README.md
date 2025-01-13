@@ -1,7 +1,5 @@
 <!-- ## Jyothsna's Portfolio 📚👩🏻‍💻
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. -->
-![image](https://github.com/user-attachments/assets/ca2a0090-12d9-4820-ba00-7718ca865974)
-
 👋 Hi, I’m Jyothsna!
 
 📚 I'm a Boston-based graduate student at Northeastern University, studying Data Analytics Engineering. I'm currently interning at a Synchrony Financial.
